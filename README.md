@@ -1,6 +1,6 @@
 # 🧠 Fiches de Révision – BTS SIO SLAM
 
-## Tronc Commun
+## TRONC COMMUN
 
 📘 Culture Générale et Expression
 
