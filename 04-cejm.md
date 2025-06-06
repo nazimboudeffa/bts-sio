@@ -1,4 +1,4 @@
-## 💼 CEJM
+## 💼 Culture économique, juridique et managériale (CEJM)
 
 ### ⚖️ Droit du numérique
 - RGPD : Règlement Général sur la Protection des Données
