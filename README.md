@@ -1,18 +1,14 @@
 # 🧠 Fiches de Révision – BTS SIO SLAM
 
-TC culture-g.md
+## Tronc Commun
 
----
+📘 Culture Générale et Expression
 
-TC anglais.md
+🌍 Anglais Professionnel
 
----
+🧮 Mathématiques
 
-TC maths.md
-
----
-
-TC cejm.md
+💼 Culture économique, juridique et managériale (CEJM)
 
 ---
 
