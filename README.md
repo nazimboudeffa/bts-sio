@@ -1,6 +1,8 @@
 # 🧠 Fiches de Révision – BTS SIO SLAM
 
-Services informatiques aux organisations
+Services informatiques aux organisations (SIO)
+
+Solutions logicielles et applications métiers (SLAM)
 
 ## TRONC COMMUN
 
