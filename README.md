@@ -1,34 +1,34 @@
 # 🧠 Fiches de Révision – BTS SIO SLAM
 
-culture-g.md
+TC culture-g.md
 
 ---
 
-anglais.md
+TC anglais.md
 
 ---
 
-maths.md
+TC maths.md
 
 ---
 
-cejm.md
+TC cejm.md
 
 ---
 
-dev.md
+SLAM dev.md
 
 ---
 
-bdd.md
+SLAM bdd.md
 
 ---
 
-methode.md
+SLAM methode.md
 
 ---
 
-cyber.md
+SLAM cyber.md
 
 ---
 
