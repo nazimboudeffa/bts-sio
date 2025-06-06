@@ -13,4 +13,8 @@ button.addEventListener('click', () => alert("Clic!"));
 ```
 
 ### 🔹 POO (Programmation Orientée Objet)
-- Classe, objet, héritage, encapsulation
+- Classe
+- Objet
+- Encapsulation
+- Héritage
+- Polymorphisme
