@@ -2,7 +2,8 @@
 
 Services informatiques aux organisations (SIO)
 
-Solutions logicielles et applications métiers (SLAM)
+- Solutions logicielles et applications métiers (SLAM)
+- Solutions d'infrastructure, systèmes et réseaux (SISR)
 
 ## TRONC COMMUN
 
@@ -23,6 +24,10 @@ Solutions logicielles et applications métiers (SLAM)
 🧰 07 - Outils / Projet
 
 🔐 08 - Cybersécurité
+
+## SISR
+
+TODO
 
 ---
 
