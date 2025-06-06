@@ -2,24 +2,24 @@
 
 ## TRONC COMMUN
 
-📘 Culture Générale et Expression
+📘 01 - Culture Générale et Expression
 
-🌍 Anglais Professionnel
+🌍 02- Anglais Professionnel
 
-🧮 Mathématiques
+🧮 03 - Mathématiques
 
-💼 Culture économique, juridique et managériale (CEJM)
+💼 04 - Culture économique, juridique et managériale (CEJM)
 
 ## SLAM
 
-💻 Développement (SLAM)
+💻 05 - Développement (SLAM)
 
-🗃️ Base de Données
+🗃️ 06 - Base de Données
 
-🧰 Outils / Projet
+🧰 07 - Outils / Projet
 
-🔐 Cybersécurité
+🔐 08 - Cybersécurité
 
 ---
 
-🧪 Projet de fin d’étude
+🧪 09 - Projet de fin d’étude
