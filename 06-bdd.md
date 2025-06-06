@@ -21,3 +21,11 @@ LEFT JOIN commandes o ON c.id = o.client_id;
 - Modele-rel.fr – apprentissage des bases relationnelles.
 
 - DB-Fiddle – pour tester vos requêtes en ligne.
+
+### 📘 Modélisation UML & MERISE
+
+- UML sur UML-diagrams.org – exemples de tous les types de diagrammes.
+
+- Cours UML sur Developpez.com – très complet.
+
+- Le site Merise – pour apprendre la méthode MERISE.
