@@ -11,3 +11,13 @@ LEFT JOIN commandes o ON c.id = o.client_id;
 - MCD (MERISE), MLD, MPD
 - UML : cas d'utilisation, diagramme de classes
 - Clés primaires / étrangères
+
+## REFS
+
+### 🛠️ Bases de Données / SQL
+
+- SQL.sh – le site de référence pour apprendre SQL en français.
+
+- Modele-rel.fr – apprentissage des bases relationnelles.
+
+- DB-Fiddle – pour tester vos requêtes en ligne.
