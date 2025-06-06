@@ -1,4 +1,4 @@
-# 🧠 Fiches de Révision – BTS SIO SLAM
+# 🧠 Fiches de Révision – BTS SIO
 
 Services informatiques aux organisations (SIO)
 
