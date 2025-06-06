@@ -167,3 +167,25 @@ try:
 except ZeroDivisionError:
     print("Erreur : division par zéro")
 ```
+
+## REFS
+
+### 🌐 Front-end & Back-end
+
+- OpenClassrooms – Formations gratuites :
+
+  - "Apprenez à créer votre site web" (HTML/CSS/JS)
+
+  - "Débutez avec Python", PHP, Symfony, SQL, etc.
+
+- Grafikart.fr – Excellent pour PHP, Laravel, Symfony, Vue.js.
+
+- MDN Web Docs – La doc de référence pour HTML/CSS/JS.
+
+- Codecademy (gratuit et payant) – cours interactifs.
+
+### 🐍 Python
+
+- Cours Python – France IOI – parfait pour débuter.
+
+Apprendre Python – tutos et exemples.
