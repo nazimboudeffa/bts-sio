@@ -16,7 +16,7 @@ cejm.md
 
 ---
 
-developpement.md
+dev.md
 
 ---
 
