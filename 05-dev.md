@@ -1,5 +1,50 @@
 ## 💻 Développement (SLAM)
 
+### 🔹 Fiche Langage : HTML/CSS
+#### 🧱 HTML (structure)
+- Doctype : `<!DOCTYPE html>`
+- Balises de base :
+```html
+<html>
+  <head>
+    <title>Page</title>
+  </head>
+  <body>
+    <h1>Titre</h1>
+    <p>Paragraphe</p>
+    <a href="#">Lien</a>
+  </body>
+</html>
+```
+- Formulaires : `<form>`, `<input>`, `<label>`, `<button>`
+
+#### 🎨 CSS (style)
+- Sélecteurs : `element`, `.class`, `#id`
+- Propriétés courantes :
+```css
+body {
+  background-color: #f0f0f0;
+  font-family: Arial;
+  color: #333;
+}
+```
+- Positionnement : `flex`, `grid`, `relative`, `absolute`
+- Media queries :
+```css
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+```
+- Animation simple :
+```css
+button:hover {
+  background-color: blue;
+  transition: background-color 0.3s;
+}
+```
+
 ### 🔹 Fiche Langage : PHP
 - Syntaxe de base : `<?php ... ?>`
 - Variables : `$nom = "valeur";`
