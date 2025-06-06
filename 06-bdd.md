@@ -8,5 +8,6 @@ LEFT JOIN commandes o ON c.id = o.client_id;
 ```
 
 ### 🛠️ Modélisation
-- MCD (MERISE), UML
+- MCD (MERISE), MLD, MPD
+- UML : cas d'utilisation, diagramme de classes
 - Clés primaires / étrangères
