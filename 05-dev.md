@@ -125,3 +125,45 @@ string contenu = File.ReadAllText("fichier.txt");
 - LINQ :
 ```csharp
 var resultats = liste.Where(p => p.Age > 18).ToList();
+```
+
+### 🔹 Fiche Langage : Python
+- Déclaration :
+```python
+x = 5
+y = "Bonjour"
+```
+- Structures de contrôle : `if`, `elif`, `else`, `for`, `while`
+- Fonctions :
+```python
+def saluer(nom):
+    print("Bonjour", nom)
+```
+- Listes, dictionnaires, tuples :
+```python
+liste = [1, 2, 3]
+dico = {"clé": "valeur"}
+tuple_ex = (1, 2)
+```
+- Fichiers :
+```python
+with open("fichier.txt", "r") as f:
+    contenu = f.read()
+```
+- Programmation orientée objet :
+```python
+class Personne:
+    def __init__(self, nom):
+        self.nom = nom
+
+    def afficher(self):
+        print("Nom:", self.nom)
+```
+- Bibliothèques utiles : `math`, `random`, `datetime`, `json`
+- Gestion d’erreurs :
+```python
+try:
+    x = 1 / 0
+except ZeroDivisionError:
+    print("Erreur : division par zéro")
+```
