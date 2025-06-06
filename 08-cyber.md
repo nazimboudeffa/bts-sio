@@ -18,3 +18,11 @@
 - Échapper les sorties (ex: `htmlspecialchars()`)
 - Utiliser HTTPS
 - Sécuriser les sessions (regen ID, timeout)
+
+## REFS
+
+### 🔐 Cybersécurité (notions de base)
+
+- Cybermalveillance.gouv.fr – sensibilisation à la sécurité.
+
+- OWASP Top 10 – les 10 principales failles de sécurité à connaître (injections, XSS, etc.)
