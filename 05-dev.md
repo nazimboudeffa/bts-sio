@@ -49,3 +49,34 @@ LEFT JOIN commandes o ON c.id = o.client_id;
 - Encapsulation : protection des données internes (`private`, `public`, `protected`)
 - Héritage : une classe peut hériter d'une autre (`extends`)
 - Polymorphisme : surcharge et redéfinition de méthodes
+
+### 🔹 Fiche Langage : C#
+- Déclaration :
+```csharp
+int x = 5;
+string nom = "Alice";
+```
+- Structures de contrôle : `if`, `switch`, `while`, `for`
+- Fonctions :
+```csharp
+void AfficherNom(string nom) {
+  Console.WriteLine(nom);
+}
+```
+- Classes & Objets :
+```csharp
+class Personne {
+  public string Nom { get; set; }
+  public Personne(string nom) {
+    Nom = nom;
+  }
+}
+```
+- Manipulation fichiers :
+```csharp
+File.WriteAllText("fichier.txt", "Bonjour");
+string contenu = File.ReadAllText("fichier.txt");
+```
+- LINQ :
+```csharp
+var resultats = liste.Where(p => p.Age > 18).ToList();
