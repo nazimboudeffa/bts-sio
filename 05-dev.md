@@ -45,6 +45,8 @@ button:hover {
 }
 ```
 
+ALLER PLUS LOIN : Bootstrap ou Tailwind CSS
+
 ### 🔹 Fiche Langage : PHP
 - Syntaxe de base : `<?php ... ?>`
 - Variables : `$nom = "valeur";`
@@ -55,6 +57,8 @@ button:hover {
 $conn = new PDO("mysql:host=localhost;dbname=ma_base", "root", "");
 ```
 - Sécurité : `password_hash`, requêtes préparées
+
+ALLER PLUS LOIN : Laravel, Symphony
 
 ### 🔹 Fiche Langage : JavaScript
 - Variables : `let`, `const`, `var`
@@ -75,6 +79,8 @@ fetch('/api')
   .then(res => res.json())
   .then(data => console.log(data));
 ```
+
+ALLER PLUS LOIN : React, Next.js ou Vue
 
 ### 🔹 Fiche Langage : SQL
 - SELECT, INSERT, UPDATE, DELETE
@@ -127,6 +133,8 @@ string contenu = File.ReadAllText("fichier.txt");
 var resultats = liste.Where(p => p.Age > 18).ToList();
 ```
 
+ALLER PLUS LOIN : ASP.NET
+
 ### 🔹 Fiche Langage : Python
 - Déclaration :
 ```python
@@ -167,6 +175,8 @@ try:
 except ZeroDivisionError:
     print("Erreur : division par zéro")
 ```
+
+ALLER PLUS LOIN : Django ou Flask
 
 ## REFS
 
