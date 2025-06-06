@@ -10,21 +10,15 @@
 
 💼 Culture économique, juridique et managériale (CEJM)
 
----
+## SLAM
 
-SLAM dev.md
+💻 Développement (SLAM)
 
----
+🗃️ Base de Données
 
-SLAM bdd.md
+🧰 Outils / Projet
 
----
-
-SLAM methode.md
-
----
-
-SLAM cyber.md
+🔐 Cybersécurité
 
 ---
 
