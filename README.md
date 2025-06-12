@@ -30,5 +30,3 @@ Services informatiques aux organisations (SIO)
 TODO
 
 ---
-
-🧪 09 - Projet de fin d’étude
